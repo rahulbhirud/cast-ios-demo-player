@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<medias>
+  <media
+    title="[Public] Big Buck Bunny"
+    artist="Blender Institute"
+    url="http://commondatastorage.googleapis.com/gtv-videos-bucket/big_buck_bunny_1080p.mp4"
+    mimeType="video/mp4"
+    imageUrl="http://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg"
+    />
+  <media
+    title="[Public] Cynthia Remixed"
+    url="http://ashaadistory.com/cynthia1.mp3"
+    mimeType="audio/mp3"
+  />
+  <media
+    title="[Public] Eureka!"
+    url="https://upload.wikimedia.org/wikipedia/en/5/5b/Eureka_title_card.jpg"
+    mimeType="image/jpg"
+  />
+</medias>
